@@ -1,0 +1,137 @@
+/* skeleton footer css*/
+
+@font-face {
+  font-family: Nexa light;
+  src: url("../fonts/Nexa-Light.otf") format("opentype");
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: Nexa light;
+  background: #444 url('../images/india_2_page4_40.jpg') top center repeat fixed;
+  color: #222;
+  background-size: cover;
+  background-position: 50% 50%;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  opacity: 0.9;
+}
+
+.table-container {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+.table-block {
+  display: table-row;
+  height: 1px;
+}
+
+.footer-push {
+  height: auto;
+}
+#footer {
+  /* Placeholder footer styles */
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+
+/* My style */
+
+.header {
+  margin-top: 10%;
+  text-align: center;
+}
+
+.navbar {
+  margin-top: 7%;
+}
+
+.navbar-list {
+  list-style: none;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.navbar-item {
+  font-size: 16px;
+  display: inline-block;
+  position: relative;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 0;
+  color: white;
+}
+
+.navbar-list {
+  color: white;
+  text-decoration: none;
+  background-color: rgba(162, 162, 162, 0.46);
+}
+
+.navbar-list li a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-list li a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.navbar-link {
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 300;
+  letter-spacing: .2rem;
+  margin-right: 35px;
+  text-decoration: none;
+  line-height: 6.5rem;
+  color: #222;
+}
+
+.footer-list {
+  list-style: none;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.footer-item {
+  font-size: 12px;
+  display: inline-block;
+  position: relative;
+  margin-right: 3rem;
+  margin-left: 3rem;
+  margin-bottom: 0;
+}
+
+.table-block.footer {
+  background-color: #fff;
+}
+
+#brand-logo {
+  max-width: 100%; 
+  max-height: 100%;
+  height: 50px; 
+  width: auto; 
+}
+
+
+#footer a {
+  color: #000;
+  text-decoration: none;
+}
+
+#footer a:hover {
+  color: #aaa;
+  text-decoration: none;
+}
+
+
+
