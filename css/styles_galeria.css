@@ -128,5 +128,28 @@ body {
   text-decoration: none;
 }
 
+.galeria {
+  margin-top: 60px;
+}
 
+.galeria .row {
+  margin-top: 60px;
+}
+
+.galeria img {
+  max-width: 100%;
+  display: inline-block;
+}
+
+.four.columns {
+  position: relative;
+}
+
+.four.columns img {
+
+
+
+
+ 
+}
 
