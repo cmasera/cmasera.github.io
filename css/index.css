@@ -1,0 +1,70 @@
+.display {
+    width: 100%;
+    height: 700px;
+    
+    position: relative;
+
+    background-color: #222222;
+
+    margin-top: 0px;
+
+   
+
+}
+
+.display-item {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+
+    position: relative;
+}
+
+#main-photo {
+    background-image: url(images/assets/landscape.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#main-photo p {
+    position: relative;
+    text-align: right;
+    margin: 0 auto;
+    margin-right: 60px;
+    margin-top: 60px;
+    
+    font-size: 40px;
+    color: #FFFAFA; 
+
+}
+
+#main-photo p + p {
+   margin-top: 0px;
+}
+    
+
+
+
+#main-content blockquote {
+    max-width: 640px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 0px;
+    border-radius: 20px;
+
+    font-size: 30px;
+    
+    text-align: center;
+}
+
+.separate {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    padding: 30px;
+
+    font-size: 30px;
+
+    text-align: center;
+
+}
