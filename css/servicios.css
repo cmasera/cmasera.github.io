@@ -19,37 +19,8 @@
 
 }
 
-#trip-photo-1 {
-    background-image: url(/Users/lucuma/Documents/cmasera.github.io/images/viajes/patagonia_sept2015_040.jpg);
-    background-position: 100% 90%;
-    background-size: cover;
 
-}
-
-#trip-photo-1 p {
-    font-size: 25px;
-    font-style: italic;
-
-    color: #FFFAFA;
-
-    position: relative;
-    text-align: left;
-    margin: 0 auto;
-    margin-left: 60px;
-    margin-top: 60px;
-
-    text-shadow: 1px 1px #222222;
-
-    position: relative;
-    
-}
-
-#trip-photo-1 p + p {
-    margin-top: -510px;
-
-}
-
-.separate-trip {
+.separate-line {
     width: auto;
     height: auto;
     margin: 0 auto;
@@ -60,39 +31,15 @@
     text-align: center;
 }
 
-.trip-class {
+#cotizar {
+    padding: 30px 0px 10px 0px;
 
-    margin-left: auto;
-    margin-right: auto;
-    padding: 30px 0 40px 0;
-    width: 100%; 
-
-    font-size: 30px;
-    font-style: italic;
-    text-align: center;
-
-    position: relative;
-    
 }
-
-.trip-place {
-
-	margin-left: auto;
-    margin-right: auto;
-    padding: 0px 0px 20px 0px;
-	width: 100%; 
-
-	font-size: 50px;
-    text-align: center;
-
-    position: relative;
-}
-
 
 p {
 	margin-left: auto;
     margin-right: auto;
-    padding: 20px 0 20px 0;
+    padding: 30px 0px 10px 0px;
 	max-width: 640px;
 	height: 100%;
 
@@ -102,18 +49,9 @@ p {
 	position: relative;
 }
 
-#trip-photo-2 img {
-    display: block;
-    width: 50%;
-    height: 70%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-}
 
 
-
-.trip-info {
+.info {
     font-size: 22px;
     padding: 25px;
     padding-bottom: 50px;
@@ -131,7 +69,7 @@ p {
 
 }
 
-#bases {
+#libros {
     display: block;
     width: 50%;
     height: 80%;
@@ -143,14 +81,17 @@ p {
     position: relative; 
 }
 
+li {padding: 5px 0px 5px 0px;
 
-#info-bases {
+}
+
+#info-libros {
     padding: 25px;
 	list-style-type: none; 
 
 }
 
-#activities {
+#fotos {
     display: block;
     width: 50%;
     height: 80%;
@@ -163,7 +104,7 @@ p {
 
 }
 
-#info-activities {
+#info-fotos {
     padding: 25px;
     list-style-type: none; 
 }
@@ -174,7 +115,23 @@ p {
 
 }
 
-#trip-photo-3 img{
+
+#safari {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 25px auto 10px auto;
+    border: none;
+    border-radius: 10px;
+    color: #444444;
+    background-color: none;
+    position: relative; 
+    padding: 25px 0 25px 0;
+   
+   
+}
+
+#islamacias img{
     display: block;
     width: 54%;
     height: 80%;
@@ -186,33 +143,6 @@ p {
     border-radius: 10px;
 }
 
-#add-information {
-    display: block;
-    width: 100%;
-    height: 100%;
-    margin: 25px auto 10px auto;
-    border: 1px solid #444444;
-    border-radius: 10px;
-    color: #444444;
-    background-color: none;
-    position: relative; 
-    padding: 25px 0 25px 0;
-   
-   
-}
 
-#info-add-info {
-    padding: 25px;
-    list-style-type: none; 
-    font-size: 20px;
-}
-
-#info-add-info  li {
-    list-style-type: none; 
-}
-
-#info-no-incluye {
-    padding-top: 20px;
-}
 
    
