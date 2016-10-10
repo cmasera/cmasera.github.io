@@ -24,15 +24,15 @@
     height: 300px;
     margin: 10px;
 
-    padding: 10px;
-
-    border-style: none;
+     /* border-style: solid;
     border-width: 1px;
     border-radius: 3px;
-    border-color: #999999;
+    border-color: #999999; */
 
+    padding: 10px;
     position: relative;
 }
+
 
 .photo-image {
     margin: 0 auto;

@@ -22,11 +22,11 @@
 
 
 
-<!--#main-photo 
-    background-image: url(/Users/lucuma/Documents/cmasera.github.io/images/assets/landscape.jpg);
+#main-photo {
+    background-image: url(../images/assets/landscape.jpg);
     background-position: center;
     background-size: cover;
-}-->
+}
 
 
 #main-photo p {

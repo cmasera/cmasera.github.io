@@ -20,7 +20,7 @@
 }
 
 #trip-photo-1 {
-    background-image: url(/Users/lucuma/Documents/cmasera.github.io/images/viajes/patagonia_sept2015_040.jpg);
+    background-image: url(../images/viajes/patagonia_sept2015_040.jpg);
     background-position: 100% 90%;
     background-size: cover;
 
@@ -33,20 +33,16 @@
     color: #FFFAFA;
 
     position: relative;
-    text-align: left;
+    text-align: center;
     margin: 0 auto;
-    margin-left: 60px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 60px;
 
     text-shadow: 1px 1px #222222;
 
     position: relative;
     
-}
-
-#trip-photo-1 p + p {
-    margin-top: -510px;
-
 }
 
 .separate-trip {
@@ -104,8 +100,8 @@ p {
 
 #trip-photo-2 img {
     display: block;
-    width: 50%;
-    height: 70%;
+    width: 80%;
+    height: 80%;
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
@@ -133,7 +129,7 @@ p {
 
 #bases {
     display: block;
-    width: 50%;
+    width: 70%;
     height: 80%;
     margin: 10px auto 10px auto;
     border: 1px solid #FFFAFA;
@@ -152,7 +148,7 @@ p {
 
 #activities {
     display: block;
-    width: 50%;
+    width: 70%;
     height: 80%;
     margin: 10px auto 10px auto;
     border: 1px solid #444444;
@@ -176,7 +172,7 @@ p {
 
 #trip-photo-3 img{
     display: block;
-    width: 54%;
+    width: 70%;
     height: 80%;
     margin-top: 25px;
     margin-left: auto;
